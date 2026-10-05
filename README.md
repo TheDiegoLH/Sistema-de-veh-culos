@@ -1,5 +1,3 @@
-# Sistema_vehiculos
-
 # Sistema de Gestión de Vehículos 
 
 Proyecto académico en **Python** para la materia *Programación Orientada a Objetos*.  
